@@ -16,5 +16,7 @@ print(f"Aparelho: {aparelho}")
 print(f"Consumo estimado: {consumo_mensal:.2f} kWh/mês")
 print(f"Custo estimado: R$ {custo:.2f}")
 
+print("Muito obrigado utilizar nosso site!")
+
 
 

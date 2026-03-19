@@ -7,7 +7,7 @@ Este projeto foi desenvolvido em Python com o objetivo de calcular o consumo men
 - 🐍 Python
 - 💻 Git & GitHub
 
-## 📊 Fórmula utilizada
+## 📊 Calculo utilizado
 
 consumoMensal = (potencia * horasDia * 30) / 1000
 
